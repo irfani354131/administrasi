@@ -1,4 +1,4 @@
-# ranata_systems
+# master_systems
 
 Controllers, Views ada di application/modules/
 
